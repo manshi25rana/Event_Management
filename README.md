@@ -4,4 +4,4 @@ A modern event management website built using HTML5, Tailwind CSS, and JavaScrip
 
 
 # Website Demo
-vikalpeventmanagement.netlify.app
+# vikalpeventmanagement.netlify.app
